@@ -29,12 +29,12 @@ function createFolders() {
 createFolders()
 
 
-function moveFiles() {
+function currentFiles() {
     console.log("\nCurrent files in directory:");
     fs.readdirSync(__dirname).forEach(file => {
         console.log(file)
     })
 }
-moveFiles()
+currentFiles()
 
 
