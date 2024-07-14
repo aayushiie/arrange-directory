@@ -1,12 +1,12 @@
 {
   "name": "arranging-device-folder",
   "version": "1.0.0",
-  "description": "",
+  "description": "this program is used to organise files by creating folders named after the extension of files and further moving those files into their respective folders based on their extension.",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "aayushi",
   "license": "ISC"
 }
