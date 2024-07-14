@@ -1,1 +1,2 @@
-# arranging-device-folder
+# Arranging device folders
+This code helps in organising any folder by creating folders using the extension of files available in the folder and further moving those files into their respective folders.
